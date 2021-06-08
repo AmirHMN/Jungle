@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/AmirHMN/CLionProjects/Jungle/Animal.h
+
+C:/Users/AmirHMN/CLionProjects/Jungle/DomesticAnimal.h
+Animal.h
+C:/Users/AmirHMN/CLionProjects/Jungle/Animal.h
+
+C:/Users/AmirHMN/CLionProjects/Jungle/Jungle.h
+Animal.h
+C:/Users/AmirHMN/CLionProjects/Jungle/Animal.h
+
+C:/Users/AmirHMN/CLionProjects/Jungle/WildAnimal.h
+Animal.h
+C:/Users/AmirHMN/CLionProjects/Jungle/Animal.h
+
+C:/Users/AmirHMN/CLionProjects/Jungle/main.cpp
+iostream
+-
+Jungle.h
+C:/Users/AmirHMN/CLionProjects/Jungle/Jungle.h
+DomesticAnimal.h
+C:/Users/AmirHMN/CLionProjects/Jungle/DomesticAnimal.h
+WildAnimal.h
+C:/Users/AmirHMN/CLionProjects/Jungle/WildAnimal.h
+
