@@ -98,6 +98,12 @@
 		<Unit filename="C:/Users/AmirHMN/CLionProjects/Jungle/Jungle.h">
 			<Option target="jungle"/>
 		</Unit>
+		<Unit filename="C:/Users/AmirHMN/CLionProjects/Jungle/Pet.cpp">
+			<Option target="jungle"/>
+		</Unit>
+		<Unit filename="C:/Users/AmirHMN/CLionProjects/Jungle/Pet.h">
+			<Option target="jungle"/>
+		</Unit>
 		<Unit filename="C:/Users/AmirHMN/CLionProjects/Jungle/WildAnimal.cpp">
 			<Option target="jungle"/>
 		</Unit>
